@@ -1,2 +1,5 @@
-# contentful-osx-swift
-Contentful management app for OSX in Swift
+#Contentful-osx-swift
+
+[Contentful](http://www.contentful.com) management app for OSX, written in Swift.
+
+_work in progress_
